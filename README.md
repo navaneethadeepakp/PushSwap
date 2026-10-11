@@ -27,5 +27,7 @@ make
 
 ### Example
 
+```
 ./push_swap 45 67 89 12 23
+```
 (The output will be the exact sequence of stack operations (eg, rra, pb, sa) required to sort the numbers.)
